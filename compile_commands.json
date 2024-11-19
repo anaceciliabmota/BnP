@@ -1,0 +1,27 @@
+[
+ {
+  "directory": "/home/anacecilia/Documents/branch-and-price/Kit-OR/CG",
+  "arguments": [
+   "g++",
+   "-O3",
+   "-std=c++11",
+   "-I/opt/ibm/ILOG/CPLEX_Studio2211/cplex/include",
+   "-I/opt/ibm/ILOG/CPLEX_Studio2211/concert/include",
+   "-L/opt/ibm/ILOG/CPLEX_Studio2211/cplex/lib/x86-64_linux/static_pic",
+   "-I/usr/include/c++/9",
+   "-I/usr/include/x86_64-linux-gnu/c++/9",
+   "-L/usr/lib/gcc/x86_64-linux-gnu/9",
+   "-L/opt/ibm/ILOG/CPLEX_Studio2211/concert/lib/x86-64_linux/static_pic",
+   "-o",
+   "gc",
+   "gc.cpp",
+   "-lilocplex",
+   "-lcplex",
+   "-lconcert",
+   "-lm",
+   "-pthread",
+   "-ldl"
+  ],
+  "file": "gc.cpp"
+ }
+]
