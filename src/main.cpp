@@ -1,5 +1,5 @@
 #include "Data.h"
-#include "Problema.h"
+#include "MasterProblem.h"
 #include "Node.h"
 #include <limits>
 #include <stdio.h>
@@ -25,9 +25,35 @@ int main(int argc, char **argv)
 
     cout << "items: " << data.getNItems() << endl;
 
-    Problema p(data, numeric_limits<double>::infinity());
+    MasterProblem mp(data, numeric_limits<double>::infinity());
 
-    p.solve();
+    Node no;
+    pair<int, int> items = mp.solve(no);
+
+    cout << items.first << " " << items.second << endl;
+
+
+    no.separados = {make_pair(0, 1)};
+    items = mp.solve(no);
+
+    cout << items.first << " " << items.second << endl;
+
+    no.separados = {make_pair(3, 4)};
+    items = mp.solve(no);
+
+    cout << items.first << " " << items.second << endl;
 
     return 0;
+}
+
+void Branch_and_Price(MasterProblem& mp, double upper_bound){
+
+    list<Node> tree;
+    list<Node>::iterator it;
+    Node root;
+    root.LB = numeric_limits<double>::infinity();
+
+    Node best
+
+
 }

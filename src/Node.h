@@ -15,6 +15,7 @@ public:
     bool tipo_branch; // 1 se estão juntos, 0 se estão separados
     bool is_root;
     double LB;
+    std::vector<std::vector<bool>> solution;
 };
 
 #endif

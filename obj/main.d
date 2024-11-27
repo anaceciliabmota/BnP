@@ -1,1 +1,2 @@
-obj/main.o: src/main.cpp src/Data.h src/Problema.h src/Node.h
+obj/main.o: src/main.cpp src/Data.h src/MasterProblem.h src/Node.h \
+ src/PricingProblem.h
