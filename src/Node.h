@@ -11,11 +11,12 @@
 class Node
 {
 public:
-    std::vector<std::pair<int, int>> separados, juntos;
-    bool tipo_branch; // 1 se estão juntos, 0 se estão separados
-    bool is_root;
+    bool master_is_feasible;
+    bool tipo_branch; // 1 se estão juntos, 0 se estão separados    
+    double bins;
     double LB;
     std::vector<std::vector<bool>> solution;
+    std::vector<std::pair<int, int>> separados, juntos;    
 };
 
 #endif

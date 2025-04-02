@@ -45,21 +45,48 @@ MasterProblem::MasterProblem(const Data &data, double UB)
   }
 }
 
+
+MasterProblem::~MasterProblem() {
+    // Liberar os recursos alocados
+    masterObj.end();
+    masterConstraints.end();
+    lambda.end();
+    masterProblem.end();
+}
+
 std::pair<int, int> MasterProblem::solve(Node & no) {
-
+  //std::cout << "NO" << std::endl;
   add_revert_pair_constraint(no, 0);
+  std::vector<std::vector<bool>> solution;
 
-  std::pair<int, int> items;
   int n = this->data.getNItems();
+  int lambda_counter = this->lambda.getSize();
+  std::pair<int, int> items;
+
   IloCplex rmp(this->masterProblem);
   rmp.setOut(this->env.getNullStream());
   rmp.solve();
-  int lambda_counter = this->lambda.getSize() ;
+  
+
+  for(int i = 0; i < lambdaItens.size(); i++){
+    for(int j = 0; j < lambdaItens[i].size(); j++){
+     // std::cout << lambdaItens[i][j] << " ";
+    }
+    //std::cout << std::endl;
+  }
+ 
+
+  if(rmp.getCplexStatus() == IloCplex::Infeasible){
+    no.master_is_feasible = false;
+    return {};
+  }else{
+    no.master_is_feasible = true;
+  }
 
   while (true) {
 
-    IloNumArray pi(this->env, n);
     double reduced_cost;
+    IloNumArray pi(this->env, n);
     std::vector<double> pi_vector(n);
     std::vector<double> entering_col_vector;
 
@@ -78,20 +105,20 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
 
     if (reduced_cost < -1e-5) {
 
-      std::cout << std::endl << "Entering column:" << std::endl;
+      // std::cout << std::endl << "Entering column:" << std::endl;
       for (size_t i = 0; i < n; i++) {
         this->lambdaItens[i].push_back(entering_col[i] < 0.5 ? 0 : 1);
-        std::cout << (entering_col[i] < 0.5 ? 0 : 1) << std::endl;
+        // std::cout << (entering_col[i] < 0.5 ? 0 : 1) << std::endl;
       }
-      std::cout << std::endl;
+      // std::cout << std::endl;
 
-      std::cout << "matriz: " << std::endl;
+      // std::cout << "matriz: " << std::endl;
 
       for (int i = 0; i < n; i++) {
         for (int j = 0; j < lambda_counter + 1; j++) {
-          std::cout << lambdaItens[i][j] << " ";
+          // std::cout << lambdaItens[i][j] << " ";
         }
-        std::cout << std::endl;
+        // std::cout << std::endl;
       }
 
       // Add the column to the master problem
@@ -112,16 +139,18 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
     } else {
       std::vector<std::vector<double>> z(n, std::vector<double>(n, 0));
 
-      std::cout << "No column with negative reduced costs found. The current"
-                   "basis is optimal"
-                << std::endl;
-      std::cout << "Final master problem: " << std::endl;
-      std::cout << "Bins usados: " << rmp.getObjValue() << std::endl;
+      // std::cout << "No column with negative reduced costs found. The current"
+     //               "basis is optimal"
+      //           << std::endl;
+      // std::cout << "Final master problem: " << std::endl;
+      // std::cout << "Bins usados: " << rmp.getObjValue() << std::endl;
+
+      no.bins = rmp.getObjValue();
 
       IloNumArray variables(this->env, lambda.getSize());
       rmp.getValues(lambda, variables);
       for (int i = 0; i < lambda.getSize(); i++) {
-        std::cout << "lambda[" << i << "] = " << variables[i] << std::endl;
+        //std::cout << "lambda[" << i << "] = " << variables[i] << std::endl;
       }
 
       for (int i = 0; i < variables.getSize(); i++) {
@@ -133,16 +162,25 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
           }
         }
       }
-
-      items = define_pair(n, z);
-
-
-
+      bool feasible;
+      items = define_pair(n, z, &feasible);
+      //std::cout << "feasible: " << feasible << std::endl;
+      if(feasible)
+        generate_solution(solution, &rmp, variables);
+      no.solution = solution;
       break;
     }
   }
 
   add_revert_pair_constraint(no, 1);
+  
+  //generate_solution(solution, &rmp, lambda);
+  // for(int i = 0; i < solution.size(); i++){
+  //   for(int j = 0;j < solution[i].size(); j++){
+  //     std::cout << solution[i][j] << " ";
+  //   }
+  //   std::cout << std::endl;
+  // }
 
   return items;
 }
@@ -156,7 +194,12 @@ void MasterProblem::add_revert_pair_constraint(Node & no, bool ub){
       int item_1 = no.separados[j].first;
       int item_2 = no.separados[j].second;
       if(this->lambdaItens[item_1][i] == 1 && this->lambdaItens[item_2][i] == 1){
-        this->lambda[i].setUB(ub);
+        if(ub)
+          this->lambda[i].setUB(IloInfinity);
+        else {
+          this->lambda[i].setUB(0);
+        }
+        //std::cout << "sep: lambda " << i << " foi zerado"<< std::endl;
       }
     }
   }
@@ -176,11 +219,12 @@ void MasterProblem::add_revert_pair_constraint(Node & no, bool ub){
           this->lambda[i].setUB(0);
         }
       }
+      //std::cout << "jun: lambda " << i << " foi zerado"<< std::endl;
     }
   }
 }
 
-std::pair<int, int> MasterProblem::define_pair(int n, std::vector<std::vector<double>>& z) {
+std::pair<int, int> MasterProblem::define_pair(int n, std::vector<std::vector<double>>& z, bool * is_feasible) {
   std::pair<int, int> items_pair;
   int best_i, best_j;
   double diff = std::numeric_limits<double>::infinity();
@@ -193,25 +237,39 @@ std::pair<int, int> MasterProblem::define_pair(int n, std::vector<std::vector<do
         best_i = i;
         best_j = j;
       }
-      std::cout << z[i][j] << " ";
+      //std::cout << z[i][j] << " ";
     }
-    std::cout << std::endl;
+    //std::cout << std::endl;
   }
-
+  *is_feasible = z[best_i][best_j] > EPSILON ? false : true; 
   items_pair.first = best_i;
   items_pair.second = best_j;
   return items_pair;
 }
 
-void MasterProblem::generate_solution(std::vector<std::vector<bool>>& solution, IloCplex& rmp){
+void MasterProblem::generate_solution(std::vector<std::vector<bool>>& solution, IloCplex * rmp, IloNumArray& variables){
+
   for(int i = 0; i < this->lambda.getSize(); i++){
-    if(rmp.getValue(this->lambda[i]) == 1){
+    double var = rmp->getValue(lambda[i]);
+    if(abs(variables[i] - 1) < EPSILON){
       std::vector<bool> bin_solution;
       for(int j = 0; j < lambdaItens.size(); j++){
         bin_solution.push_back(lambdaItens[j][i]);
       }
-      solution.push_back(bin_solution);
+        solution.push_back(bin_solution);
     }
   }
+}
+
+bool MasterProblem::is_feasible_solution(IloCplex * rmp, IloNumArray& variables){
+  bool is_feasible = true;
+  for(int i = 0; i < this->lambda.getSize(); i++){
+    double var = rmp->getValue(lambda[i]);
+    if(abs(var - 1) > EPSILON || abs(var - 0) > EPSILON){
+      is_feasible = false;
+      break;
+    }
+  }
+  return is_feasible;
 }
 

@@ -1,0 +1,358 @@
+Erro: Tempo limite excedido ao processar N4C2W1_C.BPP
+========================================
+Arquivo: N3C3W1_L.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 17.8442
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C2W2_B.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C1W1_P.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C1W4_A.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C2W4_F.BPP
+========================================
+Arquivo: N4C3W4_P.BPP
+Saída:
+bin capacity: 150
+items: 500
+Solucao: inf
+Tempo gasto: 162.344
+
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+
+========================================
+Arquivo: N3C3W1_S.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 6.94707
+
+Erros:
+Markowitz threshold set to 0.2
+Repairing basis singularity.
+Markowitz threshold set to 0.3
+
+========================================
+Erro: Tempo limite excedido ao processar N4C3W2_I.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C3W1_H.BPP
+========================================
+Arquivo: N3C3W4_F.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 15.1526
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C2W1_N.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C3W2_R.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C1W1_Q.BPP
+========================================
+Arquivo: N3C3W4_D.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 13.8233
+
+Erros:
+
+========================================
+Arquivo: N4C3W2_K.BPP
+Saída:
+bin capacity: 150
+items: 500
+Solucao: inf
+Tempo gasto: 150.694
+
+Erros:
+
+========================================
+Arquivo: N3C3W1_A.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 14.7708
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C3W2_H.BPP
+========================================
+Arquivo: N4C2W4_J.BPP
+Saída:
+bin capacity: 120
+items: 500
+Solucao: 300
+Tempo gasto: 4.62023
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C3W2_F.BPP
+========================================
+Arquivo: N4C2W2_H.BPP
+Saída:
+bin capacity: 120
+items: 500
+Solucao: inf
+Tempo gasto: 97.5239
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C3W1_C.BPP
+========================================
+Arquivo: N4C2W1_S.BPP
+Saída:
+bin capacity: 120
+items: 500
+Solucao: inf
+Tempo gasto: 95.7638
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C2W2_R.BPP
+========================================
+Arquivo: N4C3W4_H.BPP
+Saída:
+bin capacity: 150
+items: 500
+Solucao: inf
+Tempo gasto: 53.5116
+
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+
+========================================
+Erro: Tempo limite excedido ao processar cvrp3.txt
+========================================
+Erro: Tempo limite excedido ao processar N4C3W4_R.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C2W4_N.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C3W2_P.BPP
+========================================
+Arquivo: N3C3W4_I.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 19.184
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C2W1_K.BPP
+========================================
+Arquivo: N3C3W1_N.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 32.72
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C3W1_D.BPP
+========================================
+Arquivo: N3C3W4_T.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 19.3012
+
+Erros:
+
+========================================
+Arquivo: N4C3W4_M.BPP
+Saída:
+bin capacity: 150
+items: 500
+Solucao: inf
+Tempo gasto: 193.513
+
+Erros:
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+
+========================================
+Erro: Tempo limite excedido ao processar N4C1W4_Q.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C3W1_K.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C2W2_J.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C2W1_D.BPP
+========================================
+Arquivo: N3C3W4_E.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: 85
+Tempo gasto: 29.7558
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C1W1_I.BPP
+========================================
+Erro: Tempo limite excedido ao processar N4C1W4_M.BPP
+========================================
+Arquivo: N4C2W1_H.BPP
+Saída:
+bin capacity: 120
+items: 500
+Solucao: inf
+Tempo gasto: 248.776
+
+Erros:
+
+========================================
+Erro: Tempo limite excedido ao processar N4C2W2_I.BPP
+========================================
+Arquivo: N3C3W4_M.BPP
+Saída:
+bin capacity: 150
+items: 200
+Solucao: inf
+Tempo gasto: 14.3336
+
+Erros:
+
+========================================

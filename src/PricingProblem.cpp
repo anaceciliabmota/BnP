@@ -26,6 +26,7 @@ std::vector<double> solve_sub_problem(int n, std::vector<double> &pi,
   model.add(weight_sum <= data.getBinCapacity());
   separate_pairs_subproblem(no, x, env, model);
   IloCplex pricing_problem(model);
+  pricing_problem.setParam(IloCplex::Param::Threads, 1);
   pricing_problem.setOut(env.getNullStream()); // disables CPLEX log
   pricing_problem.solve();
   IloNumArray entering_col(env, n);
@@ -42,6 +43,8 @@ std::vector<double> solve_sub_problem(int n, std::vector<double> &pi,
   x.end();
   reduced_cost.end();
   weight_sum.end();
+  obj.end();
+  entering_col.end();
   pricing_problem.end();
   env.end();
 
@@ -62,7 +65,6 @@ void separate_pairs_subproblem(Node &no, IloBoolVarArray &x, IloEnv &env,
   for (int i = 0; i < no.juntos.size(); i++) {
     int item_1 = no.juntos[i].first;
     int item_2 = no.juntos[i].second;
-    x[item_1].setLB(1);
-    x[item_2].setLB(1);
+    model.add(x[item_1] == x[item_2]);
   }
 }
