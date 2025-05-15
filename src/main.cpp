@@ -66,18 +66,18 @@ Node Branch_and_Price(MasterProblem& mp, double dual){
     while(!tree.empty()){
         //selecionando o ultimo (dfs)
         it = --tree.end();
-        cout << "Nó de número " << cont << endl;
+        //cout << "Nó de número " << cont << endl;
         cont++;
         Node node = tree.back();
         pair<int, int> selected_items = mp.solve(node);
         bool is_integer_solution = node.solution.size() > 0 ? true : false;
-        cout << "Master é viável?" << (node.master_is_feasible ? "Sim" : "Não") << endl;
-        cout << "É inteiro? " << (is_integer_solution ? "Sim" : "Não") << endl;
-        std::cout << "Nós selecionados: " << selected_items.first << " " << selected_items.second << endl;
+        // cout << "Master é viável?" << (node.master_is_feasible ? "Sim" : "Não") << endl;
+        // cout << "É inteiro? " << (is_integer_solution ? "Sim" : "Não") << endl;
+        // std::cout << "Nós selecionados: " << selected_items.first << " " << selected_items.second << endl;
         //std::cout << node.master_is_feasible << endl;
         cout << "Decisão" << endl;
         if(!node.master_is_feasible || ceil(node.bins) > best.bins){
-            std::cout << "entrou na primeira poda" << endl;
+            //std::cout << "entrou na primeira poda" << endl;
             tree.erase(it);
             continue;
         }else if(node.master_is_feasible && is_integer_solution){
@@ -85,10 +85,10 @@ Node Branch_and_Price(MasterProblem& mp, double dual){
             if(node.bins + EPSILON < best.bins){
                 best = node;
             }
-            std::cout << "entrou na segunda poda" << endl;
+            //std::cout << "entrou na segunda poda" << endl;
 
         }else{
-            std::cout << "criou filhos" << endl << endl;
+            //std::cout << "criou filhos" << endl << endl;
             if(node.bins > dual){
                 dual = node.bins;
             }
