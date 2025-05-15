@@ -56,6 +56,15 @@ MasterProblem::~MasterProblem() {
 
 std::pair<int, int> MasterProblem::solve(Node & no) {
   //std::cout << "NO" << std::endl;
+
+
+  // for(int i = 0; i < lambdaItens.size(); i++){
+  //   for(int j = 0; j < lambdaItens[i].size(); j++){
+  //     std::cout << lambdaItens[i][j] << " ";
+  //   }
+  //     std::cout << std::endl;
+  // }
+ 
   add_revert_pair_constraint(no, 0);
   std::vector<std::vector<bool>> solution;
 
@@ -74,10 +83,11 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
     }
     //std::cout << std::endl;
   }
- 
+  
 
   if(rmp.getCplexStatus() == IloCplex::Infeasible){
     no.master_is_feasible = false;
+    add_revert_pair_constraint(no, 1);
     return {};
   }else{
     no.master_is_feasible = true;
@@ -149,9 +159,9 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
 
       IloNumArray variables(this->env, lambda.getSize());
       rmp.getValues(lambda, variables);
-      for (int i = 0; i < lambda.getSize(); i++) {
-        //std::cout << "lambda[" << i << "] = " << variables[i] << std::endl;
-      }
+      // for (int i = 0; i < lambda.getSize(); i++) {
+      //   std::cout << "lambda[" << i << "] = " << variables[i] << std::endl;
+      // }
 
       for (int i = 0; i < variables.getSize(); i++) {
         for (int j = 0; j < n; j++) {
@@ -168,19 +178,16 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
       if(feasible)
         generate_solution(solution, &rmp, variables);
       no.solution = solution;
+     
       break;
     }
   }
 
   add_revert_pair_constraint(no, 1);
   
+  
   //generate_solution(solution, &rmp, lambda);
-  // for(int i = 0; i < solution.size(); i++){
-  //   for(int j = 0;j < solution[i].size(); j++){
-  //     std::cout << solution[i][j] << " ";
-  //   }
-  //   std::cout << std::endl;
-  // }
+  
 
   return items;
 }
@@ -195,9 +202,9 @@ void MasterProblem::add_revert_pair_constraint(Node & no, bool ub){
       int item_2 = no.separados[j].second;
       if(this->lambdaItens[item_1][i] == 1 && this->lambdaItens[item_2][i] == 1){
         if(ub)
-          this->lambda[i].setUB(IloInfinity);
+          this->lambda[i].setUB(IloInfinity); //reverter restrição
         else {
-          this->lambda[i].setUB(0);
+          this->lambda[i].setUB(0); // adicionar restrição
         }
         //std::cout << "sep: lambda " << i << " foi zerado"<< std::endl;
       }
@@ -232,7 +239,7 @@ std::pair<int, int> MasterProblem::define_pair(int n, std::vector<std::vector<do
     for (int j = 0; j < n; j++) {
       if (abs(abs(z[i][j] - 0.5) - diff) < EPSILON) {
         continue;
-      }else if(abs(z[i][j] - 0.5) < diff){
+      }else if(abs(z[i][j] - 0.5) + EPSILON < diff){
         diff = abs(z[i][j] - 0.5);
         best_i = i;
         best_j = j;
