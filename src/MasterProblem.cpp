@@ -84,7 +84,6 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
     //std::cout << std::endl;
   }
   
-
   if(rmp.getCplexStatus() == IloCplex::Infeasible){
     no.master_is_feasible = false;
     add_revert_pair_constraint(no, 1);

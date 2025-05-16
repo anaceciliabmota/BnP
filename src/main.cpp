@@ -27,9 +27,9 @@ int main(int argc, char **argv)
     Data data;
     data.readData(argv[1]);
 
-    cout << "bin capacity: " << data.getBinCapacity() << endl;
+    // cout << "bin capacity: " << data.getBinCapacity() << endl;
 
-    cout << "items: " << data.getNItems() << endl;
+    cout << "Items: " << data.getNItems() << endl;
 
     MasterProblem mp(data, numeric_limits<double>::infinity());
 
@@ -68,15 +68,19 @@ Node Branch_and_Price(MasterProblem& mp, double dual){
         it = --tree.end();
         //cout << "Nó de número " << cont << endl;
         cont++;
+        // if(cont % 10 == 0){
+        //     cout << best.bins << " " <<  dual << endl;
+        //     cout << "GAP: " << 1 - best.bins/dual << endl;
+        // }
         Node node = tree.back();
         pair<int, int> selected_items = mp.solve(node);
         bool is_integer_solution = node.solution.size() > 0 ? true : false;
         // cout << "Master é viável?" << (node.master_is_feasible ? "Sim" : "Não") << endl;
         // cout << "É inteiro? " << (is_integer_solution ? "Sim" : "Não") << endl;
         // std::cout << "Nós selecionados: " << selected_items.first << " " << selected_items.second << endl;
-        //std::cout << node.master_is_feasible << endl;
-        cout << "Decisão" << endl;
-        if(!node.master_is_feasible || ceil(node.bins) > best.bins){
+        // std::cout << node.master_is_feasible << endl;
+        // cout << "Decisão " << node.bins << best.bins << endl;
+        if(!node.master_is_feasible || ceil(node.bins) - best.bins > -EPSILON){
             //std::cout << "entrou na primeira poda" << endl;
             tree.erase(it);
             continue;
