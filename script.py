@@ -2,11 +2,11 @@ import os
 import subprocess
 
 # Caminho para o diretório com os arquivos
-dir_path = "instances"
+dir_path = "instances2"
 # Caminho para o executável
 executable_path = "./bpp"
 # Arquivo de saída
-output_file = "saida.txt"
+output_file = "resultados.txt"
 
 # Verificar se o diretório existe
 if not os.path.isdir(dir_path):
@@ -30,18 +30,18 @@ with open(output_file, "w") as output:
 
                 # Escrever o nome do arquivo e a saída no arquivo de saída
                 output.write(f"Arquivo: {file_name}\n")
-                output.write(f"Saída:\n{result.stdout}\n")
-                output.write(f"Erros:\n{result.stderr}\n")
-                output.write("=" * 40 + "\n")
+                output.write(f"{result.stdout}")
+                output.write(f"Erros:\n{result.stderr}")
+                output.write("-" * 40 + "\n")
 
             except subprocess.TimeoutExpired:
                 # Registrar se o programa ultrapassou o limite de tempo
                 output.write(f"Erro: Tempo limite excedido ao processar {file_name}\n")
-                output.write("=" * 40 + "\n")
+                output.write("-" * 40 + "\n")
 
             except Exception as e:
                 # Registrar qualquer outro erro ao executar o programa
                 output.write(f"Erro ao processar {file_name}: {e}\n")
-                output.write("=" * 40 + "\n")
+                output.write("-" * 40 + "\n")
 
 print(f"Processamento concluído. Resultados salvos em {output_file}.")

@@ -1,0 +1,3075 @@
+Arquivo: N1C1W4_B.BPP
+Items: 50
+Solucao: 40
+Tempo gasto: 0.171884
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_O.BPP
+Items: 100
+Solucao: 64
+Tempo gasto: 1.41314
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_S.BPP
+Items: 200
+Solucao: 100
+Tempo gasto: 133.592
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_O.BPP
+Items: 100
+Solucao: 50
+Tempo gasto: 7.27845
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_P.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 39.1401
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_G.BPP
+Items: 100
+Solucao: 53
+Tempo gasto: 5.39482
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_D.BPP
+Items: 200
+Solucao: 108
+Tempo gasto: 92.6658
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_L.BPP
+Items: 100
+Solucao: 57
+Tempo gasto: 2.13903
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_K.BPP
+Items: 100
+Solucao: 55
+Tempo gasto: 1.38128
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_C.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.396059
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_K.BPP
+Items: 200
+Solucao: 147
+Tempo gasto: 1.77543
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_P.BPP
+Items: 100
+Solucao: 46
+Tempo gasto: 5.16223
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_I.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 2.04384
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_Q.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.349955
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_C.BPP
+Items: 50
+Solucao: 33
+Tempo gasto: 0.565287
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_C.BPP
+Items: 100
+Solucao: 40
+Tempo gasto: 25.8165
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_N.BPP
+Items: 100
+Solucao: 64
+Tempo gasto: 6.47902
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_A.BPP
+Items: 100
+Solucao: 64
+Tempo gasto: 7.55033
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_O.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 3.80315
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_S.BPP
+Items: 200
+Solucao: 89
+Tempo gasto: 185.993
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_S.BPP
+Items: 100
+Solucao: 42
+Tempo gasto: 20.2121
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_B.BPP
+Items: 200
+Solucao: 126
+Tempo gasto: 40.6232
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_P.BPP
+Items: 50
+Solucao: 38
+Tempo gasto: 0.480838
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_P.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 0.291862
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_H.BPP
+Items: 100
+Solucao: 53
+Tempo gasto: 2.99166
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_L.BPP
+Items: 100
+Solucao: 62
+Tempo gasto: 7.17218
+Erros:
+----------------------------------------
+Erro: Tempo limite excedido ao processar N3C2W1_Q.BPP
+----------------------------------------
+Arquivo: N2C2W2_Q.BPP
+Items: 100
+Solucao: 54
+Tempo gasto: 0.984107
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_S.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 4.26313
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_J.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 0.857559
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_O.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 23.1381
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_S.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 5.06294
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_E.BPP
+Items: 100
+Solucao: 58
+Tempo gasto: 8.03223
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_N.BPP
+Items: 50
+Solucao: 33
+Tempo gasto: 0.48028
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_J.BPP
+Items: 100
+Solucao: 67
+Tempo gasto: 0.91794
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_B.BPP
+Items: 200
+Solucao: 149
+Tempo gasto: 6.47163
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_O.BPP
+Items: 100
+Solucao: 48
+Tempo gasto: 22.9116
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_F.BPP
+Items: 200
+Solucao: 123
+Tempo gasto: 26.3942
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_P.BPP
+Items: 50
+Solucao: 28
+Tempo gasto: 0.529481
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_A.BPP
+Items: 100
+Solucao: 42
+Tempo gasto: 21.2538
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_A.BPP
+Items: 100
+Solucao: 57
+Tempo gasto: 9.02275
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_A.BPP
+Items: 100
+Solucao: 52
+Tempo gasto: 3.14363
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_S.BPP
+Items: 50
+Solucao: 38
+Tempo gasto: 0.111903
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_Q.BPP
+Items: 200
+Solucao: 98
+Tempo gasto: 296.408
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_R.BPP
+Items: 100
+Solucao: 33
+Tempo gasto: 31.9253
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_E.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 3.55812
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_P.BPP
+Items: 100
+Solucao: 67
+Tempo gasto: 2.8222
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_D.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 0.685533
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_A.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 1.22934
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_A.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 37.6309
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_Q.BPP
+Items: 100
+Solucao: 49
+Tempo gasto: 5.95261
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_G.BPP
+Items: 200
+Solucao: 111
+Tempo gasto: 85.5406
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_R.BPP
+Items: 100
+Solucao: 42
+Tempo gasto: 15.6309
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_O.BPP
+Items: 50
+Solucao: 34
+Tempo gasto: 0.365505
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_B.BPP
+Items: 50
+Solucao: 32
+Tempo gasto: 0.409874
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_N.BPP
+Items: 200
+Solucao: 93
+Tempo gasto: 294.333
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_C.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 38.7003
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+----------------------------------------
+Arquivo: N1C1W1_J.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 0.983837
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_E.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 1.1152
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_H.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.25052
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_A.BPP
+Items: 50
+Solucao: 35
+Tempo gasto: 0.599434
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_J.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.422731
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_E.BPP
+Items: 200
+Solucao: 87
+Tempo gasto: 158.2
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_E.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.46624
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_T.BPP
+Items: 50
+Solucao: 38
+Tempo gasto: 0.351329
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_D.BPP
+Items: 100
+Solucao: 82
+Tempo gasto: 0.44335
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_D.BPP
+Items: 100
+Solucao: 61
+Tempo gasto: 0.987127
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_S.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 1.84668
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_P.BPP
+Items: 50
+Solucao: 33
+Tempo gasto: 0.747026
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_F.BPP
+Items: 100
+Solucao: 39
+Tempo gasto: 34.2024
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_C.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.479462
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_N.BPP
+Items: 50
+Solucao: 32
+Tempo gasto: 0.397486
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_M.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.421267
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_B.BPP
+Items: 200
+Solucao: 105
+Tempo gasto: 33.1193
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_L.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 3.21667
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_T.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 1.21324
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_M.BPP
+Items: 200
+Solucao: 106
+Tempo gasto: 20.8996
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_E.BPP
+Items: 100
+Solucao: 54
+Tempo gasto: 6.74079
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_F.BPP
+Items: 200
+Solucao: 113
+Tempo gasto: 104.379
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_H.BPP
+Items: 100
+Solucao: 38
+Tempo gasto: 30.0732
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_M.BPP
+Items: 100
+Solucao: 46
+Tempo gasto: 19.8609
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_A.BPP
+Items: 200
+Solucao: 125
+Tempo gasto: 3.60764
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_M.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.952759
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_H.BPP
+Items: 100
+Solucao: 52
+Tempo gasto: 14.538
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_C.BPP
+Items: 50
+Solucao: 17
+Tempo gasto: 4.3867
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_A.BPP
+Items: 200
+Solucao: 149
+Tempo gasto: 1.78307
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_N.BPP
+Items: 100
+Solucao: 63
+Tempo gasto: 2.65616
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_G.BPP
+Items: 100
+Solucao: 60
+Tempo gasto: 10.5357
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_R.BPP
+Items: 50
+Solucao: 34
+Tempo gasto: 0.390533
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_L.BPP
+Items: 200
+Solucao: 105
+Tempo gasto: 10.4169
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_G.BPP
+Items: 100
+Solucao: 33
+Tempo gasto: 47.5149
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_M.BPP
+Items: 100
+Solucao: 54
+Tempo gasto: 5.46865
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_L.BPP
+Items: 200
+Solucao: 148
+Tempo gasto: 8.91989
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_I.BPP
+Items: 50
+Solucao: 35
+Tempo gasto: 0.352457
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_K.BPP
+Items: 100
+Solucao: 70
+Tempo gasto: 0.916962
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_E.BPP
+Items: 100
+Solucao: 34
+Tempo gasto: 38.5
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_B.BPP
+Items: 100
+Solucao: 71
+Tempo gasto: 5.6963
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_O.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.271122
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_M.BPP
+Items: 100
+Solucao: 44
+Tempo gasto: 17.1046
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_O.BPP
+Items: 50
+Solucao: 32
+Tempo gasto: 0.328788
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_B.BPP
+Items: 50
+Solucao: 27
+Tempo gasto: 0.251052
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_B.BPP
+Items: 50
+Solucao: 16
+Tempo gasto: 4.04072
+Erros:
+Markowitz threshold set to 0.1
+----------------------------------------
+Arquivo: N1C2W2_I.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 0.284551
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_T.BPP
+Items: 50
+Solucao: 18
+Tempo gasto: 5.99104
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_B.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 8.5141
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_L.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 1.08844
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_C.BPP
+Items: 200
+Solucao: 146
+Tempo gasto: 13.3918
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_D.BPP
+Items: 200
+Solucao: 85
+Tempo gasto: 163.315
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_P.BPP
+Items: 200
+Solucao: 88
+Tempo gasto: 291.525
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_D.BPP
+Items: 50
+Solucao: 20
+Tempo gasto: 2.2764
+Erros:
+----------------------------------------
+Erro: Tempo limite excedido ao processar N3C2W1_K.BPP
+----------------------------------------
+Arquivo: N1C1W2_S.BPP
+Items: 50
+Solucao: 37
+Tempo gasto: 0.148693
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_L.BPP
+Items: 100
+Solucao: 52
+Tempo gasto: 6.4237
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_M.BPP
+Items: 200
+Solucao: 85
+Tempo gasto: 114.316
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_L.BPP
+Items: 100
+Solucao: 49
+Tempo gasto: 3.49167
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_F.BPP
+Items: 200
+Solucao: 140
+Tempo gasto: 58.1892
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_K.BPP
+Items: 200
+Solucao: 102
+Tempo gasto: 172.824
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_D.BPP
+Items: 50
+Solucao: 19
+Tempo gasto: 5.10328
+Erros:
+----------------------------------------
+Erro: Tempo limite excedido ao processar N3C2W1_I.BPP
+----------------------------------------
+Arquivo: N2C3W1_M.BPP
+Items: 100
+Solucao: 31
+Tempo gasto: 50.2501
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_F.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.632389
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_H.BPP
+Items: 100
+Solucao: 75
+Tempo gasto: 0.614169
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_F.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 1.2446
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_D.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 0.429836
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_K.BPP
+Items: 100
+Solucao: 47
+Tempo gasto: 11.9578
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_Q.BPP
+Items: 100
+Solucao: 34
+Tempo gasto: 22.5852
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+----------------------------------------
+Arquivo: N3C2W2_H.BPP
+Items: 200
+Solucao: 117
+Tempo gasto: 3.26186
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_G.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 3.5639
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_N.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 4.28295
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_O.BPP
+Items: 100
+Solucao: 62
+Tempo gasto: 0.677178
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_A.BPP
+Items: 200
+Solucao: 107
+Tempo gasto: 10.7255
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_P.BPP
+Items: 100
+Solucao: 50
+Tempo gasto: 11.8971
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_A.BPP
+Items: 100
+Solucao: 48
+Tempo gasto: 14.6952
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_R.BPP
+Items: 50
+Solucao: 19
+Tempo gasto: 3.21142
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_D.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 0.965636
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_P.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 30.0137
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_Q.BPP
+Items: 50
+Solucao: 20
+Tempo gasto: 6.10257
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_G.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.510788
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_M.BPP
+Items: 200
+Solucao: 136
+Tempo gasto: 33.3117
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_N.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 2.00724
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_P.BPP
+Items: 200
+Solucao: 143
+Tempo gasto: 3.54863
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_E.BPP
+Items: 100
+Solucao: 47
+Tempo gasto: 4.65793
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_G.BPP
+Items: 100
+Solucao: 61
+Tempo gasto: 1.81717
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_H.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.87735
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_R.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 6.57284
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_S.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 6.2966
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_I.BPP
+Items: 50
+Solucao: 19
+Tempo gasto: 7.58455
+Erros:
+----------------------------------------
+Erro: Tempo limite excedido ao processar N3C1W1_J.BPP
+----------------------------------------
+Arquivo: N2C3W2_T.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 38.7632
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_O.BPP
+Items: 50
+Solucao: 15
+Tempo gasto: 9.97356
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_I.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 3.32971
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_I.BPP
+Items: 50
+Solucao: 27
+Tempo gasto: 0.546039
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_F.BPP
+Items: 100
+Solucao: 49
+Tempo gasto: 8.85665
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_G.BPP
+Items: 200
+Solucao: 102
+Tempo gasto: 142.248
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_G.BPP
+Items: 200
+Solucao: 87
+Tempo gasto: 182.604
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_L.BPP
+Items: 200
+Solucao: 97
+Tempo gasto: 107.355
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+----------------------------------------
+Arquivo: N2C1W2_G.BPP
+Items: 100
+Solucao: 73
+Tempo gasto: 1.52459
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_L.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 27.4212
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_B.BPP
+Items: 100
+Solucao: 49
+Tempo gasto: 9.51146
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_R.BPP
+Items: 50
+Solucao: 38
+Tempo gasto: 0.236662
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_J.BPP
+Items: 50
+Solucao: 37
+Tempo gasto: 0.186693
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_S.BPP
+Items: 50
+Solucao: 36
+Tempo gasto: 0.333643
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_A.BPP
+Items: 200
+Solucao: 105
+Tempo gasto: 49.2491
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_R.BPP
+Items: 100
+Solucao: 51
+Tempo gasto: 6.22574
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_J.BPP
+Items: 100
+Solucao: 74
+Tempo gasto: 0.480667
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_P.BPP
+Items: 200
+Solucao: 126
+Tempo gasto: 19.2915
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_J.BPP
+Items: 100
+Solucao: 42
+Tempo gasto: 22.7937
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_T.BPP
+Items: 100
+Solucao: 46
+Tempo gasto: 5.70704
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_A.BPP
+Items: 50
+Solucao: 19
+Tempo gasto: 2.68164
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_M.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.22641
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_P.BPP
+Items: 50
+Solucao: 18
+Tempo gasto: 2.82213
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_D.BPP
+Items: 100
+Solucao: 44
+Tempo gasto: 13.1179
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_R.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 0.432626
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_N.BPP
+Items: 100
+Solucao: 51
+Tempo gasto: 0.784527
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_A.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 1.586
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_L.BPP
+Items: 200
+Solucao: 91
+Tempo gasto: 178.492
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_Q.BPP
+Items: 50
+Solucao: 33
+Tempo gasto: 0.177935
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_T.BPP
+Items: 50
+Solucao: 28
+Tempo gasto: 0.192078
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_L.BPP
+Items: 50
+Solucao: 31
+Tempo gasto: 0.507441
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_A.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 0.728537
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_F.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 0.761538
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_K.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 0.855081
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_H.BPP
+Items: 200
+Solucao: 104
+Tempo gasto: 76.8818
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_N.BPP
+Items: 50
+Solucao: 20
+Tempo gasto: 1.56545
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_C.BPP
+Items: 100
+Solucao: 42
+Tempo gasto: 13.6761
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_B.BPP
+Items: 200
+Solucao: 114
+Tempo gasto: 108.058
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_G.BPP
+Items: 50
+Solucao: 15
+Tempo gasto: 2.76965
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_A.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 0.95474
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_Q.BPP
+Items: 50
+Solucao: 28
+Tempo gasto: 0.165039
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_D.BPP
+Items: 100
+Solucao: 42
+Tempo gasto: 14.3154
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_L.BPP
+Items: 50
+Solucao: 17
+Tempo gasto: 3.26249
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_T.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 33.846
+Erros:
+----------------------------------------
+Arquivo: instancia.BPP
+Items: 5
+Solucao: 4
+Tempo gasto: 0.011398
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_C.BPP
+Items: 100
+Solucao: 68
+Tempo gasto: 2.12083
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_E.BPP
+Items: 200
+Solucao: 98
+Tempo gasto: 189.366
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_I.BPP
+Items: 200
+Solucao: 100
+Tempo gasto: 39.7195
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_G.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.5611
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_Q.BPP
+Items: 100
+Solucao: 62
+Tempo gasto: 0.808189
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_F.BPP
+Items: 200
+Solucao: 106
+Tempo gasto: 39.5951
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_G.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 0.516866
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_H.BPP
+Items: 200
+Solucao: 141
+Tempo gasto: 46.2857
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_I.BPP
+Items: 200
+Solucao: 126
+Tempo gasto: 2.15835
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_K.BPP
+Items: 100
+Solucao: 42
+Tempo gasto: 14.3904
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_T.BPP
+Items: 100
+Solucao: 52
+Tempo gasto: 9.29733
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_N.BPP
+Items: 100
+Solucao: 48
+Tempo gasto: 8.37397
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_O.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.18749
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_G.BPP
+Items: 100
+Solucao: 71
+Tempo gasto: 0.362819
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_T.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 0.833441
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_F.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 26.883
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_G.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 5.59278
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_B.BPP
+Items: 50
+Solucao: 20
+Tempo gasto: 1.97438
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_R.BPP
+Items: 200
+Solucao: 123
+Tempo gasto: 27.3794
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_E.BPP
+Items: 50
+Solucao: 33
+Tempo gasto: 0.244148
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_A.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.7984
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_P.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 0.542924
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_S.BPP
+Items: 50
+Solucao: 28
+Tempo gasto: 0.417112
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_L.BPP
+Items: 100
+Solucao: 75
+Tempo gasto: 2.49276
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_D.BPP
+Items: 200
+Solucao: 139
+Tempo gasto: 8.5981
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_H.BPP
+Items: 50
+Solucao: 31
+Tempo gasto: 0.397733
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_M.BPP
+Items: 200
+Solucao: 149
+Tempo gasto: 1.73566
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_R.BPP
+Items: 100
+Solucao: 56
+Tempo gasto: 4.9255
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_K.BPP
+Items: 200
+Solucao: 120
+Tempo gasto: 57.9013
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_Q.BPP
+Items: 200
+Solucao: 135
+Tempo gasto: 2.83608
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_E.BPP
+Items: 200
+Solucao: 142
+Tempo gasto: 16.3598
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_F.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.15116
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_G.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.513903
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_I.BPP
+Items: 50
+Solucao: 35
+Tempo gasto: 0.091643
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_N.BPP
+Items: 100
+Solucao: 71
+Tempo gasto: 0.687807
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_J.BPP
+Items: 100
+Solucao: 60
+Tempo gasto: 0.594786
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_F.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 13.1235
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_H.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 13.6571
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_S.BPP
+Items: 100
+Solucao: 80
+Tempo gasto: 0.619395
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_I.BPP
+Items: 100
+Solucao: 49
+Tempo gasto: 9.2508
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_B.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 0.816436
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_G.BPP
+Items: 200
+Solucao: 132
+Tempo gasto: 44.5955
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_D.BPP
+Items: 50
+Solucao: 38
+Tempo gasto: 0.22226
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_D.BPP
+Items: 200
+Solucao: 148
+Tempo gasto: 4.79084
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_J.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 1.63087
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_C.BPP
+Items: 200
+Solucao: 104
+Tempo gasto: 3.095
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_A.BPP
+Items: 100
+Solucao: 73
+Tempo gasto: 2.16368
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_E.BPP
+Items: 100
+Solucao: 60
+Tempo gasto: 2.74942
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_F.BPP
+Items: 100
+Solucao: 77
+Tempo gasto: 0.404191
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_S.BPP
+Items: 200
+Solucao: 130
+Tempo gasto: 44.0849
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_B.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 35.5908
+Erros:
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+----------------------------------------
+Arquivo: N2C2W2_C.BPP
+Items: 100
+Solucao: 53
+Tempo gasto: 4.46244
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_J.BPP
+Items: 200
+Solucao: 87
+Tempo gasto: 294.881
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_G.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 22.4737
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_I.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 13.8092
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_Q.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 15.0203
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_M.BPP
+Items: 50
+Solucao: 17
+Tempo gasto: 2.69452
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_L.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 22.4137
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_J.BPP
+Items: 200
+Solucao: 107
+Tempo gasto: 64.5654
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_J.BPP
+Items: 100
+Solucao: 33
+Tempo gasto: 24.8016
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_D.BPP
+Items: 50
+Solucao: 31
+Tempo gasto: 0.148766
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_L.BPP
+Items: 100
+Solucao: 55
+Tempo gasto: 4.57476
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_Q.BPP
+Items: 200
+Solucao: 146
+Tempo gasto: 5.01376
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_P.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 0.898016
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_T.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 0.416795
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_J.BPP
+Items: 100
+Solucao: 56
+Tempo gasto: 2.26567
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_Q.BPP
+Items: 100
+Solucao: 46
+Tempo gasto: 1.33591
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_K.BPP
+Items: 100
+Solucao: 72
+Tempo gasto: 1.0991
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_Q.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 0.77555
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_Q.BPP
+Items: 100
+Solucao: 75
+Tempo gasto: 1.54832
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_P.BPP
+Items: 100
+Solucao: 54
+Tempo gasto: 2.43993
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_S.BPP
+Items: 100
+Solucao: 36
+Tempo gasto: 26.216
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_I.BPP
+Items: 100
+Solucao: 34
+Tempo gasto: 28.5907
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_K.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 7.49495
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_F.BPP
+Items: 100
+Solucao: 50
+Tempo gasto: 11.2178
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_O.BPP
+Items: 200
+Solucao: 98
+Tempo gasto: 8.42896
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_F.BPP
+Items: 50
+Solucao: 20
+Tempo gasto: 1.15128
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_B.BPP
+Items: 100
+Solucao: 61
+Tempo gasto: 3.45128
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_I.BPP
+Items: 100
+Solucao: 62
+Tempo gasto: 1.80697
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_M.BPP
+Items: 100
+Solucao: 65
+Tempo gasto: 4.08767
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_J.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 8.58989
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_C.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 15.2007
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_G.BPP
+Items: 100
+Solucao: 44
+Tempo gasto: 11.8136
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_C.BPP
+Items: 100
+Solucao: 46
+Tempo gasto: 10.8928
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_B.BPP
+Items: 200
+Solucao: 82
+Tempo gasto: 86.4535
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_S.BPP
+Items: 50
+Solucao: 16
+Tempo gasto: 3.42641
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_J.BPP
+Items: 200
+Solucao: 126
+Tempo gasto: 59.0586
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_N.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 1.27713
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_O.BPP
+Items: 100
+Solucao: 80
+Tempo gasto: 0.365181
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_J.BPP
+Items: 100
+Solucao: 59
+Tempo gasto: 5.71513
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_T.BPP
+Items: 200
+Solucao: 83
+Tempo gasto: 195.048
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_M.BPP
+Items: 100
+Solucao: 60
+Tempo gasto: 0.438179
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_I.BPP
+Items: 50
+Solucao: 35
+Tempo gasto: 0.113747
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_C.BPP
+Items: 100
+Solucao: 65
+Tempo gasto: 0.379485
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_N.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 1.34272
+Erros:
+----------------------------------------
+Arquivo: instancia1.BPP
+Items: 8
+Solucao: 3
+Tempo gasto: 0.042165
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_H.BPP
+Items: 100
+Solucao: 44
+Tempo gasto: 10.4171
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_H.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 0.907307
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_K.BPP
+Items: 50
+Solucao: 32
+Tempo gasto: 0.242364
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_H.BPP
+Items: 200
+Solucao: 87
+Tempo gasto: 218.274
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_I.BPP
+Items: 100
+Solucao: 73
+Tempo gasto: 0.703816
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_L.BPP
+Items: 50
+Solucao: 31
+Tempo gasto: 0.169046
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_F.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 1.21087
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_T.BPP
+Items: 100
+Solucao: 39
+Tempo gasto: 20.571
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_Q.BPP
+Items: 50
+Solucao: 34
+Tempo gasto: 0.366361
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_C.BPP
+Items: 200
+Solucao: 99
+Tempo gasto: 62.4493
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_C.BPP
+Items: 50
+Solucao: 20
+Tempo gasto: 0.571438
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_J.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 1.29893
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_S.BPP
+Items: 100
+Solucao: 55
+Tempo gasto: 0.944204
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_E.BPP
+Items: 50
+Solucao: 16
+Tempo gasto: 4.23062
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_C.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 0.457246
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_N.BPP
+Items: 200
+Solucao: 148
+Tempo gasto: 2.03806
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_P.BPP
+Items: 100
+Solucao: 68
+Tempo gasto: 0.375776
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_O.BPP
+Items: 50
+Solucao: 16
+Tempo gasto: 1.61298
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_P.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 0.252339
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_M.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 1.32006
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_C.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 0.213022
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_H.BPP
+Items: 100
+Solucao: 70
+Tempo gasto: 1.06553
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_R.BPP
+Items: 200
+Solucao: 82
+Tempo gasto: 131.212
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_F.BPP
+Items: 50
+Solucao: 27
+Tempo gasto: 0.689831
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_R.BPP
+Items: 100
+Solucao: 40
+Tempo gasto: 14.9826
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_E.BPP
+Items: 100
+Solucao: 40
+Tempo gasto: 11.782
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_N.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 0.621861
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_G.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.11767
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_R.BPP
+Items: 200
+Solucao: 145
+Tempo gasto: 2.3738
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_F.BPP
+Items: 200
+Solucao: 88
+Tempo gasto: 67.5618
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_C.BPP
+Items: 100
+Solucao: 77
+Tempo gasto: 0.43915
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_D.BPP
+Items: 50
+Solucao: 28
+Tempo gasto: 0.369709
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_A.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 15.2317
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_H.BPP
+Items: 50
+Solucao: 19
+Tempo gasto: 2.29866
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_P.BPP
+Items: 50
+Solucao: 19
+Tempo gasto: 2.88609
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+----------------------------------------
+Arquivo: N1C3W1_K.BPP
+Items: 50
+Solucao: 17
+Tempo gasto: 3.73154
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_B.BPP
+Items: 50
+Solucao: 31
+Tempo gasto: 0.366659
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_R.BPP
+Items: 100
+Solucao: 70
+Tempo gasto: 0.52239
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_S.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 0.987454
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_K.BPP
+Items: 100
+Solucao: 50
+Tempo gasto: 7.46678
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_T.BPP
+Items: 100
+Solucao: 56
+Tempo gasto: 1.01489
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_F.BPP
+Items: 100
+Solucao: 65
+Tempo gasto: 3.96518
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_R.BPP
+Items: 50
+Solucao: 35
+Tempo gasto: 0.185032
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_J.BPP
+Items: 200
+Solucao: 142
+Tempo gasto: 5.52705
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_M.BPP
+Items: 50
+Solucao: 41
+Tempo gasto: 0.092992
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_I.BPP
+Items: 50
+Solucao: 17
+Tempo gasto: 3.68296
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_S.BPP
+Items: 100
+Solucao: 66
+Tempo gasto: 0.735576
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_H.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.117745
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_K.BPP
+Items: 100
+Solucao: 59
+Tempo gasto: 2.58167
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_A.BPP
+Items: 200
+Solucao: 91
+Tempo gasto: 187.142
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_H.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.56507
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_O.BPP
+Items: 100
+Solucao: 35
+Tempo gasto: 23.7272
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_R.BPP
+Items: 100
+Solucao: 56
+Tempo gasto: 1.47826
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_R.BPP
+Items: 100
+Solucao: 67
+Tempo gasto: 0.551933
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_Q.BPP
+Items: 50
+Solucao: 19
+Tempo gasto: 2.59112
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_A.BPP
+Items: 50
+Solucao: 16
+Tempo gasto: 2.79834
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_D.BPP
+Items: 200
+Solucao: 107
+Tempo gasto: 20.6007
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_C.BPP
+Items: 200
+Solucao: 84
+Tempo gasto: 227.986
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.3
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+----------------------------------------
+Arquivo: N3C1W2_C.BPP
+Items: 200
+Solucao: 125
+Tempo gasto: 20.0461
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_M.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 2.14979
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_S.BPP
+Items: 200
+Solucao: 145
+Tempo gasto: 1.53144
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_H.BPP
+Items: 200
+Solucao: 129
+Tempo gasto: 15.6453
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_F.BPP
+Items: 100
+Solucao: 57
+Tempo gasto: 0.740175
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_B.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.386972
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_T.BPP
+Items: 100
+Solucao: 70
+Tempo gasto: 1.86
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_T.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 1.88175
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_N.BPP
+Items: 200
+Solucao: 91
+Tempo gasto: 19.0479
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_O.BPP
+Items: 200
+Solucao: 127
+Tempo gasto: 7.36483
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_K.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.171103
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_T.BPP
+Items: 200
+Solucao: 146
+Tempo gasto: 20.5756
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_R.BPP
+Items: 200
+Solucao: 99
+Tempo gasto: 188.778
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_E.BPP
+Items: 50
+Solucao: 36
+Tempo gasto: 0.367995
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_B.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 14.0349
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_K.BPP
+Items: 50
+Solucao: 41
+Tempo gasto: 0.073471
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_C.BPP
+Items: 50
+Solucao: 36
+Tempo gasto: 0.128229
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_M.BPP
+Items: 50
+Solucao: 31
+Tempo gasto: 0.298874
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_S.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 14.8197
+Erros:
+Markowitz threshold set to 0.1
+----------------------------------------
+Arquivo: N2C3W4_L.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 8.0148
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_I.BPP
+Items: 100
+Solucao: 58
+Tempo gasto: 3.85736
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_S.BPP
+Items: 100
+Solucao: 58
+Tempo gasto: 0.4308
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_O.BPP
+Items: 200
+Solucao: 82
+Tempo gasto: 120.915
+Erros:
+Markowitz threshold set to 0.1
+----------------------------------------
+Arquivo: N1C1W4_N.BPP
+Items: 50
+Solucao: 39
+Tempo gasto: 0.136366
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_N.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 16.1034
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_A.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 9.40824
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_K.BPP
+Items: 100
+Solucao: 36
+Tempo gasto: 15.8317
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_E.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.228155
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_B.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 0.84189
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_H.BPP
+Items: 50
+Solucao: 33
+Tempo gasto: 0.125872
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_I.BPP
+Items: 100
+Solucao: 67
+Tempo gasto: 0.470134
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_R.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 1.08547
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_I.BPP
+Items: 200
+Solucao: 102
+Tempo gasto: 67.4147
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_D.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 11.2199
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_K.BPP
+Items: 200
+Solucao: 110
+Tempo gasto: 4.3383
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_E.BPP
+Items: 100
+Solucao: 73
+Tempo gasto: 2.96458
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_E.BPP
+Items: 50
+Solucao: 17
+Tempo gasto: 2.10304
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_O.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.56219
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_B.BPP
+Items: 100
+Solucao: 56
+Tempo gasto: 4.18904
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_M.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 0.286964
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_Q.BPP
+Items: 100
+Solucao: 65
+Tempo gasto: 1.22423
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_B.BPP
+Items: 100
+Solucao: 50
+Tempo gasto: 7.64593
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_I.BPP
+Items: 200
+Solucao: 140
+Tempo gasto: 25.0027
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_L.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.154583
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_N.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 12.2798
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_D.BPP
+Items: 100
+Solucao: 74
+Tempo gasto: 0.367829
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_E.BPP
+Items: 50
+Solucao: 38
+Tempo gasto: 0.084289
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_T.BPP
+Items: 200
+Solucao: 136
+Tempo gasto: 14.427
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_T.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.540618
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_P.BPP
+Items: 100
+Solucao: 60
+Tempo gasto: 5.4718
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_K.BPP
+Items: 50
+Solucao: 26
+Tempo gasto: 1.11853
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_T.BPP
+Items: 100
+Solucao: 57
+Tempo gasto: 2.73344
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_G.BPP
+Items: 50
+Solucao: 30
+Tempo gasto: 0.676154
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_O.BPP
+Items: 200
+Solucao: 143
+Tempo gasto: 44.1741
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_L.BPP
+Items: 200
+Solucao: 136
+Tempo gasto: 1.23841
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_R.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 0.981967
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_T.BPP
+Items: 200
+Solucao: 102
+Tempo gasto: 21.4469
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_H.BPP
+Items: 100
+Solucao: 46
+Tempo gasto: 12.4153
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_P.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 17.3261
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_R.BPP
+Items: 100
+Solucao: 41
+Tempo gasto: 16.213
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_B.BPP
+Items: 100
+Solucao: 60
+Tempo gasto: 1.10251
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_J.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 7.65692
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_T.BPP
+Items: 50
+Solucao: 42
+Tempo gasto: 0.078376
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_J.BPP
+Items: 50
+Solucao: 34
+Tempo gasto: 0.50192
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_M.BPP
+Items: 100
+Solucao: 72
+Tempo gasto: 2.69539
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_Q.BPP
+Items: 100
+Solucao: 46
+Tempo gasto: 9.02553
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_F.BPP
+Items: 100
+Solucao: 48
+Tempo gasto: 10.7037
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_H.BPP
+Items: 50
+Solucao: 40
+Tempo gasto: 0.100525
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_O.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 1.18473
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_G.BPP
+Items: 50
+Solucao: 37
+Tempo gasto: 0.116505
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_L.BPP
+Items: 50
+Solucao: 33
+Tempo gasto: 0.472805
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_P.BPP
+Items: 200
+Solucao: 108
+Tempo gasto: 28.9745
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_M.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 10.1259
+Erros:
+Markowitz threshold set to 0.2
+Repairing basis singularity.
+Added to 1 columns superbasic list.
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Repairing basis singularity.
+Added to 1 columns superbasic list.
+Markowitz threshold set to 0.1
+----------------------------------------
+Arquivo: N3C1W2_N.BPP
+Items: 200
+Solucao: 136
+Tempo gasto: 7.88727
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_K.BPP
+Items: 50
+Solucao: 35
+Tempo gasto: 0.175081
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_G.BPP
+Items: 200
+Solucao: 148
+Tempo gasto: 35.8689
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_D.BPP
+Items: 100
+Solucao: 51
+Tempo gasto: 1.58064
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_E.BPP
+Items: 100
+Solucao: 39
+Tempo gasto: 10.4293
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_N.BPP
+Items: 100
+Solucao: 43
+Tempo gasto: 16.543
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_Q.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 0.245785
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_E.BPP
+Items: 200
+Solucao: 116
+Tempo gasto: 54.6187
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_F.BPP
+Items: 50
+Solucao: 32
+Tempo gasto: 0.195753
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_I.BPP
+Items: 100
+Solucao: 44
+Tempo gasto: 9.95362
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_D.BPP
+Items: 100
+Solucao: 50
+Tempo gasto: 12.3738
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_M.BPP
+Items: 100
+Solucao: 44
+Tempo gasto: 12.4111
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_E.BPP
+Items: 200
+Solucao: 132
+Tempo gasto: 18.0905
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_R.BPP
+Items: 50
+Solucao: 25
+Tempo gasto: 0.774937
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_Q.BPP
+Items: 50
+Solucao: 36
+Tempo gasto: 0.092679
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_H.BPP
+Items: 100
+Solucao: 61
+Tempo gasto: 0.790455
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_K.BPP
+Items: 50
+Solucao: 24
+Tempo gasto: 0.8571
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_N.BPP
+Items: 100
+Solucao: 32
+Tempo gasto: 38.5678
+Erros:
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.1
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+Markowitz threshold set to 0.2
+----------------------------------------
+Arquivo: N1C1W4_L.BPP
+Items: 50
+Solucao: 35
+Tempo gasto: 0.142315
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_S.BPP
+Items: 50
+Solucao: 22
+Tempo gasto: 2.046
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_J.BPP
+Items: 50
+Solucao: 27
+Tempo gasto: 0.432629
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_O.BPP
+Items: 100
+Solucao: 45
+Tempo gasto: 8.02997
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_J.BPP
+Items: 50
+Solucao: 16
+Tempo gasto: 3.58511
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_O.BPP
+Items: 100
+Solucao: 50
+Tempo gasto: 7.22589
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_T.BPP
+Items: 100
+Solucao: 66
+Tempo gasto: 0.515132
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_L.BPP
+Items: 50
+Solucao: 20
+Tempo gasto: 1.48922
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_A.BPP
+Items: 50
+Solucao: 29
+Tempo gasto: 0.254984
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_I.BPP
+Items: 100
+Solucao: 44
+Tempo gasto: 14.8049
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_F.BPP
+Items: 50
+Solucao: 32
+Tempo gasto: 0.198281
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_E.BPP
+Items: 100
+Solucao: 65
+Tempo gasto: 3.82652
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_K.BPP
+Items: 50
+Solucao: 21
+Tempo gasto: 2.33664
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_D.BPP
+Items: 50
+Solucao: 28
+Tempo gasto: 0.653176
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_D.BPP
+Items: 100
+Solucao: 37
+Tempo gasto: 24.5898
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_C.BPP
+Items: 50
+Solucao: 23
+Tempo gasto: 1.24355
+Erros:
+----------------------------------------
