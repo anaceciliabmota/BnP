@@ -1,5 +1,6 @@
 
 #include "PricingProblem.h"
+#include "minknap.c"
 
 std::vector<double> solve_sub_problem(int n, std::vector<double> &pi,
                                       double *objective_value, Node &no,
@@ -68,3 +69,34 @@ void separate_pairs_subproblem(Node &no, IloBoolVarArray &x, IloEnv &env,
     model.add(x[item_1] == x[item_2]);
   }
 }
+
+std::vector<double> solve_pricing_minknap(int n, std::vector<double> &pi, double *objective_value, Node &no, const Data& data){
+  int c = data.getBinCapacity();
+  long *p = (long*)malloc(sizeof(long)*n);
+  int *w = (int*)malloc(sizeof(int)*n);
+  int *x = (int*)malloc(sizeof(int)*n);
+
+  for(int i = 0; i < pi.size(); i++){
+    p[i] = pi[i];
+    w[i] = data.getItemWeight(i);
+  }
+
+  double z = minknap(n, p, w, x, c);
+
+  *objective_value = 1-z;
+  
+
+  std::vector<double> entering_column(n);
+
+  for(int i = 0; i < n; i++){
+    entering_column[i] = x[i];
+  }
+
+  free(x);
+  free(p);
+  free(w);
+
+  return entering_column;
+
+}
+

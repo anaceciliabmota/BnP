@@ -29,7 +29,7 @@ int main(int argc, char **argv)
 
     // cout << "bin capacity: " << data.getBinCapacity() << endl;
 
-    cout << "Items: " << data.getNItems() << endl;
+    cout << "Itens: " << data.getNItems() << endl;
 
     MasterProblem mp(data, numeric_limits<double>::infinity());
 
@@ -63,40 +63,27 @@ Node Branch_and_Price(MasterProblem& mp, double dual){
     Node best;
     best.bins = numeric_limits<double>::infinity();
     int cont = 1;
+    bool is_root = true;
     while(!tree.empty()){
         //selecionando o ultimo (dfs)
         it = --tree.end();
-        //cout << "Nó de número " << cont << endl;
         cont++;
-        // if(cont % 10 == 0){
-        //     cout << best.bins << " " <<  dual << endl;
-        //     cout << "GAP: " << 1 - best.bins/dual << endl;
-        // }
         Node node = tree.back();
-        pair<int, int> selected_items = mp.solve(node);
+        pair<int, int> selected_items = mp.solve(node, is_root);
+        is_root = false;
         bool is_integer_solution = node.solution.size() > 0 ? true : false;
-        // cout << "Master é viável?" << (node.master_is_feasible ? "Sim" : "Não") << endl;
-        // cout << "É inteiro? " << (is_integer_solution ? "Sim" : "Não") << endl;
-        // std::cout << "Nós selecionados: " << selected_items.first << " " << selected_items.second << endl;
-        // std::cout << node.master_is_feasible << endl;
-        // cout << "Decisão " << node.bins << best.bins << endl;
         if(!node.master_is_feasible || ceil(node.bins) - best.bins > -EPSILON){
-            //std::cout << "entrou na primeira poda" << endl;
             tree.erase(it);
             continue;
         }else if(node.master_is_feasible && is_integer_solution){
-            //std::cout << "entrou2" << endl;
             if(node.bins + EPSILON < best.bins){
                 best = node;
             }
-            //std::cout << "entrou na segunda poda" << endl;
 
         }else{
-            //std::cout << "criou filhos" << endl << endl;
             if(node.bins > dual){
                 dual = node.bins;
             }
-            //std::cout << "entrou3" << endl;
             Node child1;
             child1.juntos = node.juntos; 
             child1.separados = node.separados; 

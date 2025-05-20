@@ -5,6 +5,8 @@
 #include "ilconcert/ilolinear.h"
 #include "ilconcert/ilosys.h"
 #include "ilcplex/ilocplexi.h"
+#include <cstddef>
+#include <cstdio>
 #include <iostream>
 #include <limits>
 #include <vector>
@@ -54,7 +56,8 @@ MasterProblem::~MasterProblem() {
     masterProblem.end();
 }
 
-std::pair<int, int> MasterProblem::solve(Node & no) {
+
+std::pair<int, int> MasterProblem::solve(Node & no, bool root) {
   //std::cout << "NO" << std::endl;
 
 
@@ -73,6 +76,7 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
   std::pair<int, int> items;
 
   IloCplex rmp(this->masterProblem);
+  rmp.setWarning(this->env.getNullStream());
   rmp.setOut(this->env.getNullStream());
   rmp.solve();
   
@@ -104,16 +108,19 @@ std::pair<int, int> MasterProblem::solve(Node & no) {
     for (int i = 0; i < n; i++) {
       pi_vector[i] = pi[i];
     }
-
-    entering_col_vector = solve_sub_problem(n, pi_vector, &reduced_cost, no, this->data);
-
+    if(root){
+      entering_col_vector = solve_pricing_minknap(n, pi_vector, &reduced_cost, no, this->data);
+    }else{
+      entering_col_vector = solve_sub_problem(n, pi_vector, &reduced_cost, no, this->data);
+    }
+    
     IloNumArray entering_col(this->env);
     for (int i = 0; i < entering_col_vector.size(); i++) {
       entering_col.add(entering_col_vector[i]);
     }
 
     if (reduced_cost < -1e-5) {
-
+      //std::cout << "entrou" << std::endl;
       // std::cout << std::endl << "Entering column:" << std::endl;
       for (size_t i = 0; i < n; i++) {
         this->lambdaItens[i].push_back(entering_col[i] < 0.5 ? 0 : 1);

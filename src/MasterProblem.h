@@ -33,7 +33,7 @@ class MasterProblem
     ~MasterProblem();
     void add_revert_pair_constraint(Node & no, bool ub); // Explicar
     //std::vector<double> solve_sub_problem(int n, std::vector<double>& pi, double * objective_value, Node& no);
-    std::pair<int, int> solve(Node &no);
+    std::pair<int, int> solve(Node &no, bool root);
     void prune();
     IloEnv env;
     double bestInteger, UB, LB;

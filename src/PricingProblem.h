@@ -8,6 +8,7 @@
 #include <ilcplex/ilocplex.h>
 #include <limits>
 
+
 std::vector<double> solve_sub_problem(int n, std::vector<double> &pi,
                                       double *objective_value, Node &no,
                                       const Data& data);
@@ -15,4 +16,5 @@ std::vector<double> solve_sub_problem(int n, std::vector<double> &pi,
 void separate_pairs_subproblem(Node &no, IloBoolVarArray &x, IloEnv &env,
                                IloModel &model);
 
+                               std::vector<double> solve_pricing_minknap(int n, std::vector<double> &pi, double *objective_value, Node &no, const Data& data);
 #endif
