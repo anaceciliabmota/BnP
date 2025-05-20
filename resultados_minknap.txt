@@ -1,0 +1,676 @@
+Arquivo: N1C1W4_B.BPP
+Itens: 50
+Solucao: 40
+Tempo gasto: 0.130017
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_O.BPP
+Itens: 100
+Solucao: 64
+Tempo gasto: 1.43176
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_S.BPP
+Itens: 200
+Solucao: 100
+Tempo gasto: 101.563
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_O.BPP
+Itens: 100
+Solucao: 50
+Tempo gasto: 4.01047
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_P.BPP
+Itens: 100
+Solucao: 35
+Tempo gasto: 33.0071
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_G.BPP
+Itens: 100
+Solucao: 53
+Tempo gasto: 7.3899
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_D.BPP
+Itens: 200
+Solucao: 108
+Tempo gasto: 129.908
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_L.BPP
+Itens: 100
+Solucao: 57
+Tempo gasto: 1.58704
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_K.BPP
+Itens: 100
+Solucao: 55
+Tempo gasto: 13.7476
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_C.BPP
+Itens: 50
+Solucao: 29
+Tempo gasto: 0.183153
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_K.BPP
+Itens: 200
+Solucao: 147
+Tempo gasto: 2.00019
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_P.BPP
+Itens: 100
+Solucao: 46
+Tempo gasto: 11.4495
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_I.BPP
+Itens: 50
+Solucao: 23
+Tempo gasto: 1.45984
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_Q.BPP
+Itens: 50
+Solucao: 30
+Tempo gasto: 0.253776
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_C.BPP
+Itens: 50
+Solucao: 33
+Tempo gasto: 0.373313
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_C.BPP
+Itens: 100
+Solucao: 40
+Tempo gasto: 10.4495
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_N.BPP
+Itens: 100
+Solucao: 64
+Tempo gasto: 5.86864
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_A.BPP
+Itens: 100
+Solucao: 64
+Tempo gasto: 5.19288
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_O.BPP
+Itens: 50
+Solucao: 21
+Tempo gasto: 2.89377
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_S.BPP
+Itens: 200
+Solucao: 89
+Tempo gasto: 201.808
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_S.BPP
+Itens: 100
+Solucao: 42
+Tempo gasto: 26.5681
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_B.BPP
+Itens: 200
+Solucao: 126
+Tempo gasto: 40.6396
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_P.BPP
+Itens: 50
+Solucao: 38
+Tempo gasto: 0.096029
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_P.BPP
+Itens: 50
+Solucao: 25
+Tempo gasto: 0.261358
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_H.BPP
+Itens: 100
+Solucao: 53
+Tempo gasto: 1.76695
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_L.BPP
+Itens: 100
+Solucao: 62
+Tempo gasto: 4.68102
+Erros:
+----------------------------------------
+Erro: Tempo limite excedido ao processar N3C2W1_Q.BPP
+----------------------------------------
+Arquivo: N2C2W2_Q.BPP
+Itens: 100
+Solucao: 54
+Tempo gasto: 1.28102
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_S.BPP
+Itens: 100
+Solucao: 43
+Tempo gasto: 5.84585
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_J.BPP
+Itens: 50
+Solucao: 25
+Tempo gasto: 0.529194
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_O.BPP
+Itens: 100
+Solucao: 45
+Tempo gasto: 19.9981
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_S.BPP
+Itens: 100
+Solucao: 43
+Tempo gasto: 3.09614
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_E.BPP
+Itens: 100
+Solucao: 58
+Tempo gasto: 5.06758
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_N.BPP
+Itens: 50
+Solucao: 33
+Tempo gasto: 0.295122
+Erros:
+----------------------------------------
+Arquivo: N2C1W2_J.BPP
+Itens: 100
+Solucao: 67
+Tempo gasto: 2.67696
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_B.BPP
+Itens: 200
+Solucao: 149
+Tempo gasto: 2.49217
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_O.BPP
+Itens: 100
+Solucao: 48
+Tempo gasto: 5.29803
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_F.BPP
+Itens: 200
+Solucao: 123
+Tempo gasto: 22.8055
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_P.BPP
+Itens: 50
+Solucao: 28
+Tempo gasto: 0.243466
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_A.BPP
+Itens: 100
+Solucao: 42
+Tempo gasto: 16.5203
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_A.BPP
+Itens: 100
+Solucao: 57
+Tempo gasto: 9.06196
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_A.BPP
+Itens: 100
+Solucao: 52
+Tempo gasto: 2.35962
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_S.BPP
+Itens: 50
+Solucao: 38
+Tempo gasto: 0.097619
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_Q.BPP
+Itens: 200
+Solucao: 98
+Tempo gasto: 204.373
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_R.BPP
+Itens: 100
+Solucao: 33
+Tempo gasto: 19.0834
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_E.BPP
+Itens: 50
+Solucao: 21
+Tempo gasto: 2.00258
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_P.BPP
+Itens: 100
+Solucao: 67
+Tempo gasto: 2.05216
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_D.BPP
+Itens: 50
+Solucao: 21
+Tempo gasto: 2.53131
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_A.BPP
+Itens: 50
+Solucao: 25
+Tempo gasto: 0.58662
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_A.BPP
+Itens: 100
+Solucao: 35
+Tempo gasto: 28.1074
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_Q.BPP
+Itens: 100
+Solucao: 49
+Tempo gasto: 23.3461
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_G.BPP
+Itens: 200
+Solucao: 111
+Tempo gasto: 38.9004
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_R.BPP
+Itens: 100
+Solucao: 42
+Tempo gasto: 7.8731
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_O.BPP
+Itens: 50
+Solucao: 34
+Tempo gasto: 0.16004
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_B.BPP
+Itens: 50
+Solucao: 32
+Tempo gasto: 0.238187
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_N.BPP
+Itens: 200
+Solucao: 93
+Tempo gasto: 243.723
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_C.BPP
+Itens: 100
+Solucao: 35
+Tempo gasto: 42.8613
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_J.BPP
+Itens: 50
+Solucao: 26
+Tempo gasto: 1.10088
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_E.BPP
+Itens: 50
+Solucao: 26
+Tempo gasto: 0.490477
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_H.BPP
+Itens: 50
+Solucao: 23
+Tempo gasto: 1.10379
+Erros:
+----------------------------------------
+Arquivo: N1C1W4_A.BPP
+Itens: 50
+Solucao: 35
+Tempo gasto: 0.478729
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_J.BPP
+Itens: 50
+Solucao: 30
+Tempo gasto: 0.190759
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_E.BPP
+Itens: 200
+Solucao: 87
+Tempo gasto: 122.836
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_E.BPP
+Itens: 50
+Solucao: 23
+Tempo gasto: 1.59176
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_T.BPP
+Itens: 50
+Solucao: 38
+Tempo gasto: 0.230983
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_D.BPP
+Itens: 100
+Solucao: 82
+Tempo gasto: 0.41386
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_D.BPP
+Itens: 100
+Solucao: 61
+Tempo gasto: 1.31744
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_S.BPP
+Itens: 50
+Solucao: 22
+Tempo gasto: 1.38715
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_P.BPP
+Itens: 50
+Solucao: 33
+Tempo gasto: 0.185163
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_F.BPP
+Itens: 100
+Solucao: 39
+Tempo gasto: 24.5966
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_C.BPP
+Itens: 50
+Solucao: 30
+Tempo gasto: 0.265827
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_N.BPP
+Itens: 50
+Solucao: 32
+Tempo gasto: 0.519692
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_M.BPP
+Itens: 50
+Solucao: 30
+Tempo gasto: 0.332931
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_B.BPP
+Itens: 200
+Solucao: 105
+Tempo gasto: 49.9014
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_L.BPP
+Itens: 50
+Solucao: 21
+Tempo gasto: 2.68306
+Erros:
+----------------------------------------
+Arquivo: N1C3W4_T.BPP
+Itens: 50
+Solucao: 24
+Tempo gasto: 0.218096
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_M.BPP
+Itens: 200
+Solucao: 106
+Tempo gasto: 246.941
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_E.BPP
+Itens: 100
+Solucao: 54
+Tempo gasto: 8.87294
+Erros:
+----------------------------------------
+Arquivo: N3C1W1_F.BPP
+Itens: 200
+Solucao: 113
+Tempo gasto: 125.709
+Erros:
+----------------------------------------
+Arquivo: N2C3W2_H.BPP
+Itens: 100
+Solucao: 38
+Tempo gasto: 25.0413
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_M.BPP
+Itens: 100
+Solucao: 46
+Tempo gasto: 9.73229
+Erros:
+----------------------------------------
+Arquivo: N3C1W2_A.BPP
+Itens: 200
+Solucao: 125
+Tempo gasto: 9.75912
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_M.BPP
+Itens: 50
+Solucao: 30
+Tempo gasto: 0.84599
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_H.BPP
+Itens: 100
+Solucao: 52
+Tempo gasto: 1.96487
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_C.BPP
+Itens: 50
+Solucao: 17
+Tempo gasto: 2.33448
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_A.BPP
+Itens: 200
+Solucao: 149
+Tempo gasto: 1.84153
+Erros:
+----------------------------------------
+Arquivo: N2C2W4_N.BPP
+Itens: 100
+Solucao: 63
+Tempo gasto: 0.578159
+Erros:
+----------------------------------------
+Arquivo: N2C1W1_G.BPP
+Itens: 100
+Solucao: 60
+Tempo gasto: 7.92903
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_R.BPP
+Itens: 50
+Solucao: 34
+Tempo gasto: 0.128974
+Erros:
+----------------------------------------
+Arquivo: N3C2W2_L.BPP
+Itens: 200
+Solucao: 105
+Tempo gasto: 18.8092
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_G.BPP
+Itens: 100
+Solucao: 33
+Tempo gasto: 22.4678
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_M.BPP
+Itens: 100
+Solucao: 54
+Tempo gasto: 5.23637
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_L.BPP
+Itens: 200
+Solucao: 148
+Tempo gasto: 5.42665
+Erros:
+----------------------------------------
+Arquivo: N1C2W4_I.BPP
+Itens: 50
+Solucao: 35
+Tempo gasto: 0.146186
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_K.BPP
+Itens: 100
+Solucao: 70
+Tempo gasto: 0.38026
+Erros:
+----------------------------------------
+Arquivo: N2C3W1_E.BPP
+Itens: 100
+Solucao: 34
+Tempo gasto: 28.2213
+Erros:
+----------------------------------------
+Arquivo: N2C1W4_B.BPP
+Itens: 100
+Solucao: 71
+Tempo gasto: 4.38884
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_O.BPP
+Itens: 50
+Solucao: 29
+Tempo gasto: 0.278193
+Erros:
+----------------------------------------
+Arquivo: N2C2W1_M.BPP
+Itens: 100
+Solucao: 44
+Tempo gasto: 19.291
+Erros:
+----------------------------------------
+Arquivo: N1C1W1_O.BPP
+Itens: 50
+Solucao: 32
+Tempo gasto: 0.373149
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_B.BPP
+Itens: 50
+Solucao: 27
+Tempo gasto: 0.230244
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_B.BPP
+Itens: 50
+Solucao: 16
+Tempo gasto: 4.22701
+Erros:
+----------------------------------------
+Arquivo: N1C2W2_I.BPP
+Itens: 50
+Solucao: 25
+Tempo gasto: 0.280529
+Erros:
+----------------------------------------
+Arquivo: N1C3W1_T.BPP
+Itens: 50
+Solucao: 18
+Tempo gasto: 3.19513
+Erros:
+----------------------------------------
+Arquivo: N2C3W4_B.BPP
+Itens: 100
+Solucao: 45
+Tempo gasto: 12.3304
+Erros:
+----------------------------------------
+Arquivo: N1C2W1_L.BPP
+Itens: 50
+Solucao: 25
+Tempo gasto: 0.619283
+Erros:
+----------------------------------------
+Arquivo: N3C1W4_C.BPP
+Itens: 200
+Solucao: 146
+Tempo gasto: 9.0872
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_D.BPP
+Itens: 200
+Solucao: 86
+Tempo gasto: 92.9618
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_P.BPP
+Itens: 200
+Solucao: 88
+Tempo gasto: 139.944
+Erros:
+----------------------------------------
+Arquivo: N1C3W2_D.BPP
+Itens: 50
+Solucao: 20
+Tempo gasto: 1.88362
+Erros:
+----------------------------------------
+Arquivo: N3C2W1_K.BPP
+Itens: 200
+Solucao: 77
+Tempo gasto: 257.738
+Erros:
+----------------------------------------
+Arquivo: N1C1W2_S.BPP
+Itens: 50
+Solucao: 37
+Tempo gasto: 0.108887
+Erros:
+----------------------------------------
+Arquivo: N2C2W2_L.BPP
+Itens: 100
+Solucao: 52
+Tempo gasto: 4.92098
+Erros:
+----------------------------------------
+Erro: Tempo limite excedido ao processar N3C2W1_M.BPP
+----------------------------------------
