@@ -2,6 +2,8 @@
 #include "PricingProblem.h"
 #include "minknap.c"
 
+#define M 1e6
+
 std::vector<double> solve_sub_problem(int n, std::vector<double> &pi,
                                       double *objective_value, Node &no,
                                       const Data& data) {
@@ -77,13 +79,13 @@ std::vector<double> solve_pricing_minknap(int n, std::vector<double> &pi, double
   int *x = (int*)malloc(sizeof(int)*n);
 
   for(int i = 0; i < pi.size(); i++){
-    p[i] = pi[i];
+    p[i] = M*pi[i];
     w[i] = data.getItemWeight(i);
   }
 
   double z = minknap(n, p, w, x, c);
 
-  *objective_value = 1-z;
+  *objective_value = 1-(z/M);
   
 
   std::vector<double> entering_column(n);
